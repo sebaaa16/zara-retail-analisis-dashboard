@@ -30,7 +30,7 @@ Para este proyecto se aplicó una estructura de **Tres Capas** en Excel:
 
 ## 📂 Contenido del Repositorio
 * `zaraClothes.xlsx`: Archivo principal con el Dashboard interactivo y las tablas de datos.
-* `zara_raw_data.csv`: Dataset original utilizado para el análisis.
+* `Data/zaraClothes.csv`: Dataset original utilizado para el análisis.
 * `Img/Dashboard.PNG`: Captura de pantalla de la interfaz final.
 
 ---
