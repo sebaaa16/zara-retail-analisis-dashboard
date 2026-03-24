@@ -11,28 +11,27 @@ Este repositorio contiene un proyecto integral de análisis de datos de **Zara**
 ---
 
 ## 🖼️ Vista Previa
-![Dashboard Preview](dashboard_preview.png)
-*(Asegúrate de que el nombre de tu imagen coincida con "dashboard_preview.png" en tu carpeta de archivos)*
+https://github.com/sebaaa16/zara-retail-analisis-dashboard/blob/main/Img/Dashboard.PNG
 
 ---
 
 ## 🛠️ Metodología y Tecnologías
 Para este proyecto se aplicó una estructura de **Tres Capas** en Excel:
 1. **Capa de Datos (Data):** Limpieza, normalización y creación de nuevas columnas lógicas (segmentación de precios).
-2. **Capa de Procesamiento (Analytics):** Tablas dinámicas conectadas para agrupar grandes volúmenes de datos de forma eficiente.
-3. **Capa de Presentación (Dashboard):** Interfaz de usuario con segmentadores (Slicers) y gráficos interactivos.
+2. **Capa de Procesamiento (Analisis):** Tablas dinámicas conectadas para agrupar grandes volúmenes de datos de forma eficiente.
+3. **Capa de Presentación (Dashboard):** Interfaz de usuario con segmentadores y gráficos interactivos.
 
 ### Funciones y Técnicas Clave:
 * **Validación de Datos:** Uso de `SI.ERROR` para el manejo de valores nulos y divisiones por cero en filtros vacíos.
 * **Fórmulas Dinámicas:** Implementación de `IMPORTARDATOSDINAMICOS` para asegurar que las tarjetas de KPI sigan al total de la tabla sin importar su tamaño.
-* **Diseño UX/UI:** Aplicación de estética minimalista alineada a la marca Zara, eliminando ruido visual (cuadrículas, encabezados de Excel) para una experiencia tipo aplicación.
+* **Diseño UX/UI:** Aplicación de estética minimalista alineada a la marca Zara, eliminando ruido visual (cuadrículas, encabezados de Excel).
 
 ---
 
 ## 📂 Contenido del Repositorio
-* `Zara_Analysis_Dashboard.xlsx`: Archivo principal con el Dashboard interactivo y las tablas de datos.
+* `zaraClothes.xlsx`: Archivo principal con el Dashboard interactivo y las tablas de datos.
 * `zara_raw_data.csv`: Dataset original utilizado para el análisis.
-* `dashboard_preview.png`: Captura de pantalla de la interfaz final.
+* `Img/Dashboard.PNG`: Captura de pantalla de la interfaz final.
 
 ---
 
